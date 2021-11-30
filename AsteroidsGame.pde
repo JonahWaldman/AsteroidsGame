@@ -32,9 +32,6 @@ bob.accelerate(.5);
 if(key == 'e')
 bob.accelerate(-.5);
 
-if(key == 'r')
-bob.setYspeed(1);
-if(key == 'q')
-bob.setYspeed(-1);
+
 
 }
